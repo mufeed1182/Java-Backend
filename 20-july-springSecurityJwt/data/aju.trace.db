@@ -1,0 +1,6 @@
+2023-07-21 12:26:46 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]USERNAME"; expected "UPDATE, USE"; SQL statement:
+USERNAME [42001-214]
+2023-07-21 12:26:48 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]USERNAME MY_USER"; expected "UPDATE, USE"; SQL statement:
+USERNAME MY_USER [42001-214]
